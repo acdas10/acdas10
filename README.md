@@ -5,8 +5,8 @@ Experienced in Data Analysis | Strong Foundation of Statistical Method and Machi
 
 Skills: Python | Jupyter Notebooks | Numpy | Pandas | Data Visualization | Seaborn | Matplotlib | Scikit-Learn | Tensor Flow | Power BI | Pytorch | Machine Learning | GitHub | SQL | R | Data Preprocessing | Data Analysis | Artificial Intelligence | Data Science | Microsoft Office | Microsoft Excel | MATLAB | COMSOL | IT
 
-- 🔭 I’m currently working on Decathlon Deutschland 
-- 🌱 I’m currently learning Pytorch 
+-  I’m currently working on Decathlon Deutschland 
+-  I’m currently learning Pytorch 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/acdas10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashik-chandra-das-17847024a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ashik.das159)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ashik_chandra_das//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sadahash.com/ashikdas/)  
